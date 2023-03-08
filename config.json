@@ -1,0 +1,9 @@
+{
+    "COMPLETIONS_MODEL": "text-davinci-002",
+    "MODEL_NAME": "curie",
+    "EMBEDDING_PATH": "asset/knowledge_embedding.csv",
+    "KNOWLEDGE_BASE_PATH": "asset/knowledge_doc.csv",
+    "MAX_SECTION_LEN": 700,
+    "MAX_COMPLETION_LEN": 200,
+    "SEPARATOR": "\n* "
+}
